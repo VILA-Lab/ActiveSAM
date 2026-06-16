@@ -1,0 +1,28 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+
+torch==2.8.0+cu128
+torchvision==0.23.0+cu128
+
+mmengine==0.10.7
+mmcv==2.1.0
+mmsegmentation==1.2.2
+psutil==7.1.0          # mmengine runtime
+pycocotools==2.0.11    # imported by mmseg's dataset registry
+nltk==3.9.4
+einops==0.8.2
+ftfy==6.3.1
+regex==2026.2.28
+iopath==0.1.10
+fairscale==0.4.13
+huggingface_hub==0.36.2
+safetensors==0.7.0
+open_clip_torch==3.3.0
+timm==1.0.25
+transformers==4.46.0
+tokenizers==0.20.3
+opencv-python==4.13.0.92
+numpy==2.1.2
+pillow==11.0.0
+scipy==1.17.1
+scikit-image==0.24.0

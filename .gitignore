@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+work_dirs/
+tmp/
+data/
+weights/
+
+README_preview.html
