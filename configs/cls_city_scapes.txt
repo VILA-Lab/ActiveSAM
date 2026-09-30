@@ -1,0 +1,19 @@
+road
+sidewalk
+building
+wall
+fence
+pole
+trafficlight
+trafficsign
+tree, hedge
+grass, horizontal vegetation, soil, sand
+sky
+person
+rider
+car
+truck
+bus
+train
+motorcycle
+bicycle
